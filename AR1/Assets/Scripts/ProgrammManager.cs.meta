@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 54b97a3e3fe1e2e4781590a7b1605c11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlaneMarkerPrefab: {instanceID: 0}
+  - ObjectToSpawn: {instanceID: 0}
+  - Joystic: {instanceID: 0}
+  - CarToSpawn: {fileID: 1906940131508474, guid: 6dfc700a1205ddf49b448178a2b00e98, type: 3}
+  - Button1: {instanceID: 0}
+  - Button2: {instanceID: 0}
+  - ScrollView: {instanceID: 0}
+  - ARCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
